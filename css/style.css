@@ -3,7 +3,21 @@
     background-size: cover;
 }
 
-body
-{
-    position: relative;
+body {
+    margin: 0 0 100px;
+
+    background-size: contain;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    height: 50px;
+
+
 }
